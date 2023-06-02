@@ -1,0 +1,31 @@
+{
+    "name": {
+        "_content": "John",
+        "_type": "<class 'str'>"
+    },
+    "age": {
+        "_content": 30,
+        "_type": "<class 'int'>"
+    },
+    "address": {
+        "street": {
+            "_content": "123 Main St",
+            "_type": "<class 'str'>"
+        },
+        "city": {
+            "_content": "New York",
+            "_type": "<class 'str'>"
+        }
+    },
+    "hobbies": {
+        "_content": [
+            "reading",
+            "coding"
+        ],
+        "_type": "<class 'list'>"
+    },
+    "is_student": {
+        "_content": true,
+        "_type": "<class 'bool'>"
+    }
+}
