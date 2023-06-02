@@ -74,4 +74,3 @@ The script reads a JSON file, traverses the dictionary, and performs value subst
 }
 ```
 
-#### License
